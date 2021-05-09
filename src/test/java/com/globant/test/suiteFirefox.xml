@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Smoke Test Suite" verbose="1">
+    <parameter name="browser" value="firefox"/>
+    <parameter name="url" value="https://www.travelocity.com/"/>
+    <listeners>
+        <listener class-name="com.globant.test.ListenerClass"></listener>
+    </listeners>
+
+    <test name="Smoke test Firefox">
+        <parameter name="leavingfrom" value="Las Vegas"></parameter>
+        <parameter name="goingto" value="Los Angeles"></parameter>
+        <classes>
+            <class name="com.globant.test.SmokeTest">
+            </class>
+        </classes>
+    </test>
+</suite>

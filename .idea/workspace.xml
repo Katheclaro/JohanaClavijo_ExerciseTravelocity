@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="507b9527-1e71-4796-bafc-1e9a7081c3f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/pages/BookingProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/globant/test/suiteFirefox.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1rwpuIKM0IsFigK5JSgWw4Tqt4X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/resources/drivers" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\johana.clavijo\git\JohanaClavijo_ExerciseTravelocity\src\test\java\resources\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/johana.clavijo/git/JohanaClavijo_ExerciseTravelocity/src/test/java/com/globant/test/suiteChrome.xml">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/johana.clavijo/git/JohanaClavijo_ExerciseTravelocity/src/test/java/com/globant/test/suiteChrome.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestTravelocity" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/globant/test/suiteChrome.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/johana.clavijo/git/JohanaClavijo_ExerciseTravelocity/src/test/java/com/globant/test/suiteFirefox.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestTravelocity" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/globant/test/suiteFirefox.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/johana.clavijo/git/JohanaClavijo_ExerciseTravelocity/src/test/java/com/globant/test/suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestTravelocity" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/globant/test/suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestTravelocity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.globant.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.globant.test" />
+      <option name="MAIN_CLASS_NAME" value="com.globant.test.SmokeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="resources.drivers" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestTravelocity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="resources.drivers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="resources.drivers" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/johana.clavijo/git/JohanaClavijo_ExerciseTravelocity/src/test/java/com/globant/test/suiteChrome.xml" />
+        <item itemvalue="TestNG.C:/Users/johana.clavijo/git/JohanaClavijo_ExerciseTravelocity/src/test/java/com/globant/test/suiteFirefox.xml" />
+        <item itemvalue="TestNG.C:/Users/johana.clavijo/git/JohanaClavijo_ExerciseTravelocity/src/test/java/com/globant/test/suite.xml" />
+        <item itemvalue="TestNG.SmokeTest" />
+        <item itemvalue="TestNG.resources.drivers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="507b9527-1e71-4796-bafc-1e9a7081c3f4" name="Default Changelist" comment="" />
+      <created>1619897229110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619897229110</updated>
+      <workItem from="1619897230807" duration="62000000" />
+      <workItem from="1620082139404" duration="13986000" />
+      <workItem from="1620159509403" duration="9707000" />
+      <workItem from="1620182218216" duration="3398000" />
+      <workItem from="1620268299838" duration="2873000" />
+      <workItem from="1620348613476" duration="5068000" />
+      <workItem from="1620353848372" duration="3363000" />
+      <workItem from="1620358794023" duration="3723000" />
+      <workItem from="1620419362933" duration="8097000" />
+      <workItem from="1620436677446" duration="6231000" />
+      <workItem from="1620510525507" duration="2697000" />
+      <workItem from="1620514849882" duration="801000" />
+      <workItem from="1620515680469" duration="3887000" />
+      <workItem from="1620528032894" duration="35000" />
+      <workItem from="1620528094001" duration="9563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/globant/test/SmokeTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="((BookingMethod)this).flightsOption" custom="com.globant.pages.BookingMethod" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
